@@ -182,7 +182,7 @@ const testimonials = [
       "I've never met a web developer who truly cares about their clients' success like Pushpam does.",
     name: "Nishant Pandey",
     designation: "CTO",
-    company: "JBM",
+    company: "ThirdEye AI",
     image: secondTestimonial,
   },
   {
@@ -190,7 +190,7 @@ const testimonials = [
       "After Pushpam optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Nikhil Tiwari",
     designation: "Assistant CTO",
-    company: "JBM",
+    company: "ThirtEye AI",
     image: thirdTestimonial,
   },
 ];
