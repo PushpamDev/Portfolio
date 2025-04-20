@@ -35,8 +35,9 @@ import {
 } from '../assets'
 
 
-// Import Tekisky separately
-import tekisky from "../assets/company/tekisky.png";
+import jbmIcon from "../assets/company/jbmIcon.png";
+import almondsIcon from "../assets/company/almondsIcon.png"
+import forestlakeIcon from "../assets/company/forestlakeIcon.png"
 
 
 export const navLinks = [
@@ -154,19 +155,40 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Full-Stack Developer",
-    company_name: "ThirdEye AI",
-    icon: tekisky,
+    title: "Fullstack Developer",
+    company_name: "JBM Group",
+    icon: jbmIcon,
     iconBg: "#383E56",
-    date: "Dec 2024 - present",
+    date: "2025 - Present",
     points: [
-      "Developing and maintaining web applications using MERN technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Designed and implemented backend services using Express, Node.js, and Mongoose.",
+      "Improved data management and system performance."
+    ],
+  },
+  {
+    title: "Backend Developer (Intern)",
+    company_name: "Almonds.ai, Gurugram, India",
+    icon: almondsIcon,
+    iconBg: "#E6DEDD",
+    date: "Oct 2023 - Dec 2023",
+    points: [
+      "Optimized algorithms for solving real-world challenges efficiently.",
+      "Reduced project completion time by 23%, significantly improving user outcomes."
+    ],
+  },
+  {
+    title: "Research & Development Intern",
+    company_name: "Forest Lake Technologies, India",
+    icon: forestlakeIcon,
+    iconBg: "#383E56",
+    date: "April 2022 - March 2023",
+    points: [
+      "Developed optimized algorithms to solve real-world problems effectively.",
+      "Reduced project completion time by 30%, positively impacting individuals."
     ],
   },
 ];
+
 
 const testimonials = [
   {
