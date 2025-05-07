@@ -63,7 +63,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone git@github.com:PushpamDev/portfolio.git
+git clone git@github.com:PushpamDev/Portfolio.git
 cd portfolio
 
 ```
